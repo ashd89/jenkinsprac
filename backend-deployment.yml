@@ -17,5 +17,5 @@ spec:
     spec:
       containers:
         - name: backend
-          image: jenkinsprac:latest
+          image: ashd89/jenkinsprac:latest
       terminationGracePeriodSeconds: 3

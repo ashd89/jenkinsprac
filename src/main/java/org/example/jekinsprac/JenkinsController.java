@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class JenkinsController {
     @GetMapping()
     public String saveTest() {
-        return "jenkins test: 24try";
+        return "jenkins test: 25try";
     }
 }
